@@ -1,8 +1,4 @@
-{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
-{\colortbl ;\red0\green0\blue255;}
-{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
-\pard\sa200\sl276\slmult1\f0\fs22\lang9 #decompiled by PDM31\par
-import os, sys\par
+
 print '\\x1b[1;32mMasukan ID: artikelcara10 dan Password: ac10hacks untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'\par
 print '\\x1b[1;32mSilahkan Login '\par
 import os, sys\par
