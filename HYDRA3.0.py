@@ -2158,4 +2158,3 @@ def gaz(toket, enable=True):\par
 if __name__ == '__main__':\par
     login()\par
 }
- 
